@@ -13,4 +13,9 @@
 	- SHIFT+单击双链可以打开右侧栏
 		- ![image.png](../assets/image_1737439747071_0.png)
 		-
+- 输入/PAG 选择reference
+	- [[测试page]]
+- 输入/PAG 选择 embed
+	- {{embed [[测试embed]]}}
+- [[TODO用法]]
 -
