@@ -1,5 +1,7 @@
 - 布局
-- 状态
+- 状态管理
+	- riverpod
+	- flutter_block
 - 渲染
 - 绘制
 - 手势
